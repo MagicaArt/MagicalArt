@@ -1,0 +1,14 @@
+.body {
+  background-image: url(bg.png);
+  background-size: 600px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+h1 {
+  padding-top: 250px;
+  padding-bottom: 250px;
+  text-align: center;
+}
+.order {
+  padding: 30px;
+}
