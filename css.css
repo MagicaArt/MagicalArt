@@ -1,14 +1,8 @@
-.body {
-  background-image: url(bg.png);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+.shop {
+  background-color: #FFB3B3;
+  padding: 100px;
+  padding-bottom: 150px;
 }
-h1 {
-  padding-top: 250px;
-  padding-bottom: 250px;
-  text-align: center;
-}
-.order {
-  padding: 30px;
+.DD {
+  padding: 20px;
 }
